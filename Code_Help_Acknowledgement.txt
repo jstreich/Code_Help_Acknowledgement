@@ -1,0 +1,41 @@
+##### Acknowledgement of coding help
+Like almost every human ever, I learned coding from others and my skills are 
+a reflection of those I’ve worked with, human, or computer.
+
+
+
+##### Help From Other Humans, aka co-workers
+We all get help from time to time, plus we sometimes reuse old code, even code 
+others helped us create. I try to put names of people who helped write code. 
+Sometimes I recycle code many times and the orginal assistant name gets lost 
+on consecutive code recyclings.
+
+
+
+##### Help From Online Tutorials or Error Finding Pages, stackoverflow, blogs, etc.
+I love to learn new skills and that sometimes means I used someone’s tutorial 
+to answer a problem. I usually try to put a link to the page in my code. 
+Likewise if someone writes a snippit of code that I use, I’ll try to put that 
+in the citation at the bottom of my scripts and programs.
+
+
+
+##### Help From ChatGPT
+This is an amazing tool and I learn from it everyday. I can ask it to make 
+several different versions of the same program and learn new skills through it. 
+It often requires significant editing to get the actual behavior that I want. 
+If a program or script took substantial editing, then I’ll claim I wrote most 
+of it. If a script or program requires zero to little editing then I’ll post 
+it was from ChatGPT. I’ve asked it to recreate solutions to problems I’ve 
+already solved and at times it gives near the exact same solution, only it 
+types much much faster. Thus, I like to use it to draft scripts and programs 
+in minutes that require (miniutes, hours, maybe 1-2 days) debugging, rather 
+than writing code from scratch. This is not always true, some work requires 
+intense forethough to get proper results rather than “any” results, which 
+ChatGPT is known for. 
+
+
+##### Final Statement
+I’ll always make sure any program I write, cowrite, or have AI assistance with, 
+actually returns meaningfful solutions through experience and practice I’ve 
+gained in my years working in data analysis and programming.
